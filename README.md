@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yashkumardubey
-- 👀 I’m interested in ... software devlopment and cyber security
-- 🌱 I’m currently learning ... BCA and Cyber security
-- 💞️ I’m looking to collaborate on ... Cyber security
-- 📫 How to reach me ... ydubey020@gnmail.com
+- 👀 I’m interested in ... Cloud And Devops Tools
+- 🌱 I’m currently Working as  ... Cloud Engnieer
+- 💞️ I’m looking to collaborate on ... Cloud Engnieer
+- 📫 How to reach me ... ydubey020@gmail.com
 
 <!---
 yashkumardubey/yashkumardubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
